@@ -1,0 +1,9 @@
+﻿  ClassTester.cpp
+C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\ClassTester\clsCrypto.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  clsCryptoEx.cpp
+C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\ClassTester\clsCryptoEx.cpp(59,54): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\ClassTester\clsCryptoEx.cpp(58,11): warning C4101: 'bytesWritten': unreferenced local variable
+C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\ClassTester\clsCryptoEx.cpp(82,54): warning C4244: 'argument': conversion from 'LONGLONG' to 'DWORD', possible loss of data
+C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\ClassTester\clsCryptoEx.cpp(81,11): warning C4101: 'bytesWritten': unreferenced local variable
+  Generating Code...
+  ClassTester.vcxproj -> C:\Users\Siax\Downloads\ClassTester-main\ClassTester-main\x64\Debug\ClassTester.exe
